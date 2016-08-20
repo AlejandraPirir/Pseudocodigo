@@ -1,0 +1,51 @@
+Ejercicio#2
+Algoritmo promedio
+Var:
+c1,c2,c3,p: Decimal
+Inicio
+Escribir (“Ingrese primera calificación”)
+Leer(c1)
+Escribir (“Ingrese segunda calificación”)
+Leer (c2)
+Escribir (“Ingrese tercera calificación”)
+Leer (c3)
+p <-- (c1+c2+c3)/3
+si p>=70 entonces
+escribir (“El estudiante aprueba”)sino
+escribir (“El estudiante reprueba”)
+fin_si
+Fin
+
+Ejercicio#3
+Escribir “Ingrese el Primer Valor”
+Leer a
+Escribir “Ingrese el Segundo Valor”
+Leer b
+Si (a>b) Entonces
+Escribir,a,”=Mayor”
+Sino
+Si (a<b) Entonces
+Escribir b,”=Mayor”
+Sino
+Fin Si
+
+
+
+
+Ejercicio #6
+Inicio 
+Leer Radio
+Area= 3.1416*Radio*Radio
+Escribir Area
+Fin
+
+Ejercico #7
+Inicio
+Leer(Radio)
+Volumen = 4*3.1416*RADIO^3
+Escribe(“El radio de la esfera es “, RADIO)
+Escribe(“El volumen de la esfera es ”, VOLUMEN)
+Salir
+
+
+
